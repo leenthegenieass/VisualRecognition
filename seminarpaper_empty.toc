@@ -1,0 +1,23 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Principles of Cortical Computing}{2}
+\contentsline {section}{\numberline {3}Problem of Invariant Object Recognition}{4}
+\contentsline {section}{\numberline {4}Cortically inspired Vision systems}{4}
+\contentsline {section}{\numberline {5}Evaluation}{8}
+\contentsline {subsection}{\numberline {5.1}Feedforward Computing vs Feedback Computing}{8}
+\contentsline {subparagraph}{}{9}
+\contentsline {subparagraph}{•}{9}
+\contentsline {subparagraph}{•}{9}
+\contentsline {subsection}{\numberline {5.2}Statistics of Natural Images}{10}
+\contentsline {subsection}{\numberline {5.3}Dimensionality of Input - Output spaces}{10}
+\contentsline {subsection}{\numberline {5.4}Feature extraction}{11}
+\contentsline {subparagraph}{•}{11}
+\contentsline {subparagraph}{•}{12}
+\contentsline {subsection}{\numberline {5.5}Nonlinearity}{12}
+\contentsline {subparagraph}{Non linear activation function: }{13}
+\contentsline {subsection}{\numberline {5.6}Sparseness}{13}
+\contentsline {subsection}{\numberline {5.7}Temporal and spatial continuity}{13}
+\contentsline {subsection}{\numberline {5.8}Miscellaneous observations}{13}
+\contentsline {section}{\numberline {6}Conclusion}{13}
+\contentsline {chapter}{Bibliography}{14}

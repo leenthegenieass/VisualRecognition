@@ -1,0 +1,911 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Book{AapoHyvaerinen2009,
+  Title                    = {Natural Image Statistics},
+  Author                   = {Aapo Hyvärinen, Jarmo Hurri, Patrik O. Hoyer},
+  Editor                   = {Springer},
+  Publisher                = {Springer London},
+  Year                     = {2009},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Article{AshbyFG1988,
+  Title                    = {Decision rules in the perception and categorization of multidimensional stimuli},
+  Author                   = {Ashby FG, Gott RE.},
+  Journal                  = {Journal of experimental psychology, Learning, memory and cognition},
+  Year                     = {1988},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{BergA.C2001,
+  Title                    = {Geometric blur for template matching},
+  Author                   = {Berg A.C, J.Malik},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2001},
+  Volume                   = {1},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Article{Bethge2006,
+  Title                    = {Factorial coding of natural images: how effective are linear models in removing higher-order dependencies?},
+  Author                   = {Matthias Bethge},
+  Journal                  = {Journal of the Optical Society of America},
+  Year                     = {2006},
+
+  Month                    = {June},
+  Number                   = {6},
+  Pages                    = {1253 - 1268},
+  Volume                   = {23},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04},
+  Url                      = {http://kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/attachments/Bethge_2006_3731%5b0%5d.pdf}
+}
+
+@Article{Bonds1989,
+  Title                    = {Role of inhibition in the specification of orientation selectivity of cells in the cat striate cortex},
+  Author                   = {A. B. Bonds},
+  Journal                  = {Visual Neuroscience},
+  Year                     = {1989},
+  Pages                    = {41 - 55},
+  Volume                   = {2},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.26}
+}
+
+@Article{BoyapatiJ1984,
+  Title                    = {Corticofugal axons in the lateral geniculate nucleus of the cat.},
+  Author                   = {Boyapati J, Henry G.},
+  Journal                  = {Experimental Brain Research},
+  Year                     = {1984},
+  Number                   = {2},
+  Pages                    = {335 - 340},
+  Volume                   = {52},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Article{BrunoAOlshausen2004,
+  Title                    = {Sparse coding of sensory inputs},
+  Author                   = {Bruno A Olshausen, David J Field},
+  Journal                  = {Current Opinion in Neurobiology},
+  Year                     = {2004},
+
+  Month                    = {July},
+  Pages                    = {481-487},
+  Volume                   = {14},
+
+  Doi                      = {10.1016/j.conb.2004.07.007},
+  File                     = {:Finalized Papers\\OlshausenandField2004Sparseness.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.30}
+}
+
+@Article{BrunoA.Olshausen1996,
+  Title                    = {Emergence of Simple Cell receptive field properties by learning a sparse code for natural images},
+  Author                   = {Bruno A. Olshausen, David J.Field},
+  Journal                  = {Nature},
+  Year                     = {1996},
+
+  Month                    = {June},
+  Note                     = {Complete Code},
+  Number                   = {13},
+  Pages                    = {607-609},
+  Volume                   = {381},
+
+  Doi                      = {10.1038/381607a0},
+  File                     = {:Finalized Papers\\Sparse Coding\\Olshausen-nature-paper.pdf:PDF},
+  Keywords                 = {Sparseness, Natural Images, Statistics, Complete Code, Statistical Independence, Visual Cortex},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{Carandini97linearityand,
+  Title                    = {Linearity and Normalization in Simple Cells of the Macaque Primary Visual Cortex},
+  Author                   = {Matteo Carandini and David J. Heeger and J. Anthony Movshon},
+  Journal                  = {JOURNAL OF NEUROSCIENCE},
+  Year                     = {1997},
+  Number                   = {21},
+  Pages                    = {8621--8644},
+  Volume                   = {17},
+
+  File                     = {:Finalized Papers\\Linearity and Normalization of simple cells in the primary visual cortex.pdf:PDF},
+  Url                      = {http://www.jneurosci.org/content/17/21/8621.full.pdf+html}
+}
+
+@Article{ChouP.Hung.GabrielKreiman2005,
+  Title                    = {Fast Readout of Object Identity from Macaque Inferior Temporal Cortex},
+  Author                   = {Chou P. Hung. Gabriel Kreiman, Tomaso Poggio, James J. DiCarlo},
+  Journal                  = {Science},
+  Year                     = {2005},
+
+  Month                    = {November},
+  Volume                   = {310},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Article{Cox2014,
+  Title                    = {Do we understand High Level Vision ?},
+  Author                   = {David Daniel Cox},
+  Journal                  = {Current Opinion in Neurobiology},
+  Year                     = {2014},
+
+  Month                    = {February},
+  Pages                    = {187-193},
+  Volume                   = {25},
+
+  Doi                      = {10.1016/j.conb.2014.01.016},
+  File                     = {:Finalized Papers\\Do we understand high level vision.pdf:PDF},
+  Keywords                 = {Vision, Object Recognition, Visual Cortex, V1, V2, IT,},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.25}
+}
+
+@Article{D.H.Hubel1977,
+  Title                    = {Ferrier Lecture: Functional Architecture of Macaque Monkey Visual Cortex},
+  Author                   = {D. H. Hubel, T. N. Wiesel},
+  Journal                  = {Proceedings of the Royal Society of London},
+  Year                     = {1977},
+
+  Month                    = {May},
+  Pages                    = {1-59},
+  Volume                   = {198},
+
+  Doi                      = {10.1098/rspb.1977.0085},
+  File                     = {:Literature Research\\hubel-wiesel-1977.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.30}
+}
+
+@Article{2005,
+  Title                    = {Breaking Position Invariance},
+  Author                   = {David D Cox, Philip Meier, Nadja Oertelt, James J DiCarlo},
+  Journal                  = {Nature Neuroscience},
+  Year                     = {2005},
+  Number                   = {9},
+  Pages                    = {1145 - 1147},
+  Volume                   = {8},
+
+  Doi                      = {10.1038/nn1519},
+  File                     = {:Finalized Papers\\Breaking Position Invariance.pdf:PDF},
+  Keywords                 = {Invariance, Position Invariance, Vision, Visual Recognition, Experiments},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.26}
+}
+
+@Article{DileepGeorge2009,
+  Title                    = {Towards a Mathematical Theory of Cortical Micro-circuits},
+  Author                   = {Dileep George, Jeff Hawkins},
+  Journal                  = {PLoS Computational Biology},
+  Year                     = {2009},
+  Volume                   = {5},
+
+  Doi                      = {10.1371/journal.pcbi.1000532},
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Book{Edelm1999,
+  Title                    = {Representation and recognition in vision},
+  Author                   = {Shimon Edelman},
+  Editor                   = {Dimitri M. Kullmann},
+  Publisher                = {The MIT Press},
+  Year                     = {1999},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{EdmundT.Rolls2000,
+  Title                    = {A model of invariant object recognition in the visual system: Learning rules, Activation Functions, Lateral Inhibition, and Information Based Performance Measures},
+  Author                   = {Edmund T. Rolls, T.Milward},
+  Journal                  = {Neural Computation},
+  Year                     = {2000},
+  Pages                    = {2547-2572},
+  Volume                   = {12},
+
+  File                     = {:Finalized Papers\\VisNet2.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{EeroP.Simoncelli1999,
+  Title                    = {Modeling Surround Suppression in V1 Neurons with a Statistically-Derived Normalization Model},
+  Author                   = {Eero P. Simoncelli, Odelia Schwartz},
+  Journal                  = {Neural Information and Processing Systems},
+  Year                     = {1999},
+
+  Month                    = {December},
+  Pages                    = {153 - 159},
+  Volume                   = {11},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.26}
+}
+
+@Article{Fukushim1980,
+  Title                    = {Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position},
+  Author                   = {Kunihiko Fukushima},
+  Journal                  = {Biological Cybernetics},
+  Year                     = {1980},
+  Pages                    = {193-202},
+  Volume                   = {36},
+
+  File                     = {:Finalized Papers\\Fukushima1980.pdf:PDF},
+  Keywords                 = {Neocognitron},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.26}
+}
+
+@Article{Gabor1946,
+  Title                    = {Theory of Communication},
+  Author                   = {D. Gabor},
+  Journal                  = {Journal of the Institution of Electrical Engineers - Part III: Radio and Communication Engineering},
+  Year                     = {1946},
+
+  Month                    = {November},
+  Number                   = {26},
+  Pages                    = {421 - 441},
+  Volume                   = {93},
+
+  Doi                      = {10.1049/ji-3-2.1946.0074},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{GavinPerry2008,
+  Title                    = {Spatial vs temporal continuity in view invariant visual object Recognition learning},
+  Author                   = {Gavin Perry, Edmund T. Rolls, Simon M. Stringer},
+  Journal                  = {Vision Research},
+  Year                     = {2008},
+
+  Month                    = {June},
+  Pages                    = {3994-4006},
+  Volume                   = {46},
+
+  Doi                      = {10.1016/j.visres.2006.07.025},
+  File                     = {:Finalized Papers\\Spatial vs Temporal Cotinuity in view invariant object recogntition.pdf:PDF},
+  Keywords                 = {Spatial Continuity, Temporal Correlation, Experminental evidence.},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@PhdThesis{George2008,
+  Title                    = {How the brain might work : A hierarchical and temporal model for leaning and recognition},
+  Author                   = {Dileep George},
+  School                   = {Department of Electrical Engineering},
+  Year                     = {2008},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@TechReport{Grossberg2000a,
+  Title                    = {THE COMPLEMENTARY BRAIN: Unifying Brain Dynamics and Modularity},
+  Author                   = {Stephen Grossberg},
+  Institution              = {Department of Cognitive and Neural Systems, Boston University},
+  Year                     = {2000a},
+  Number                   = {CAS/CNS-TR-98-003},
+  Type                     = {Technical Report},
+
+  File                     = {:Finalized Papers\\Gro00a.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31},
+  Url                      = {http://www.cns.bu.edu/Profiles/Grossberg/Gro00a.pdf}
+}
+
+@Article{Grossberg2007,
+  Title                    = {Towards a unified theory of neocortex: laminar cortical circuits for vision and cognition},
+  Author                   = {Stephen Grossberg},
+  Journal                  = {Progress in Brain Research},
+  Year                     = {2007},
+  Pages                    = {79-104},
+  Volume                   = {165},
+
+  Doi                      = {10.1016/S0079-6123(06)65006-1},
+  File                     = {Grossberg LAMINART Model:Finalized Papers\\1.1.Grossberg Laminart.pdf:PDF},
+  Keywords                 = {Cortical Computing, LAMINART, Neocortex, Neuroscience, Feedback, Attention},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.26}
+}
+
+@Article{HaoZhang2006,
+  Title                    = {SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition},
+  Author                   = {Hao Zhang, Berg, A.C. ; Maire, M. ; Malik, J.},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2006},
+  Pages                    = {2126 - 2136},
+  Volume                   = {2},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Book{Hawkins2004,
+  Title                    = {On Intelligence},
+  Author                   = {Hawkins, J. and Blakeslee, S.},
+  Publisher                = {Henry Holt and Company},
+  Year                     = {2004},
+
+  __markedentry            = {[Genieass:]},
+  ISBN                     = {9780805074567},
+  Lccn                     = {2004051640},
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02},
+  Url                      = {http://books.google.de/books?id=xTD4LqJT0ggC}
+}
+
+@Article{Heeger1992,
+  Title                    = {Normalization of simple cells in cat's striate Cortex},
+  Author                   = {David J. Heeger},
+  Journal                  = {Visual Neuroscience},
+  Year                     = {1992},
+
+  Month                    = {December},
+  Pages                    = {181-197},
+  Volume                   = {9},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Article{Hodgkin1952,
+  Title                    = {A quantitative description of membrane current and its application to conduction and excitation in nerve},
+  Author                   = {Hodgkin, A. L.; Huxley, A. F},
+  Journal                  = {Journal of Physiology},
+  Year                     = {1952},
+  Number                   = {4},
+  Pages                    = {500 - 544},
+  Volume                   = {117},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Article{HonglakLee2006,
+  Title                    = {Efficient sparse coding algorithms},
+  Author                   = {Honglak Lee, Alexis Battle, Rajat Raina, Andrew Y. Ng},
+  Journal                  = {NIPS},
+  Year                     = {2006},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.27}
+}
+
+@Article{HonglakLee2009,
+  Title                    = {Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations},
+  Author                   = {Honglak Lee, Roger Grosse, Rajesh Ranganath, Andrew Y. Ng},
+  Journal                  = {Proceedings of the 26th Annual International Conference on Machine Learning},
+  Year                     = {2009},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.25}
+}
+
+@Article{HungCP2005,
+  Title                    = {Fast readout of object identity from macaque inferior temporal cortex},
+  Author                   = {Hung CP, Kreiman G, Poggio T, DiCarlo JJ.},
+  Journal                  = {Science},
+  Year                     = {2005},
+
+  Month                    = {November},
+  Number                   = {5749},
+  Pages                    = {863 - 866},
+  Volume                   = {310},
+
+  Doi                      = {10.1126/science.1117593},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{JPJones1987,
+  Title                    = {An evaluation of the twodimensional Gabor filter model of simple receptive fields in cat striate cortex},
+  Author                   = {J P Jones, L Palmer},
+  Journal                  = {Journal of Neurophysiology},
+  Year                     = {1987},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.01}
+}
+
+@Article{JamesJ.DiCarlo2007,
+  Title                    = {Untangling invariant object recognition},
+  Author                   = {James J. DiCarlo, David D. Cox},
+  Journal                  = {TRENDS in Cognitive Sciences},
+  Year                     = {2007},
+
+  Month                    = {July},
+  Number                   = {8},
+  Volume                   = {11},
+
+  Doi                      = {10.1016/j.tics.2007.06.010},
+  File                     = {:C\:\\Users\\Genieass\\Desktop\\Acads\\Semester 1\\Bio AI\\Seminar\\Finalized Papers\\Untangling invariant object recognition.pdf:PDF},
+  Keywords                 = {Manifold Untangling, Invariance, Object Recognition, Ventral Stream, Temporal supervision, sparseness},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.25}
+}
+
+@Article{JamesJ.DiCarlo2012,
+  Title                    = {How does Brain solve Object Recognition ?},
+  Author                   = {James J. DiCarlo, David Zoccolan, Nicole C. Rust},
+  Journal                  = {Neuron},
+  Year                     = {2012},
+
+  Month                    = {February},
+  Pages                    = {415 - 434},
+  Volume                   = {73},
+
+  Doi                      = {10.1016/j.neuron.2012.01.010},
+  File                     = {:Finalized Papers\\Brain Solves Object recognition.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.30}
+}
+
+@Article{JimMutch2008,
+  Title                    = {Object Class Recognition and localization using sparse features with limited receptive fields},
+  Author                   = {Jim Mutch, David G.Lowe},
+  Journal                  = {International Journal of Computer Vision (IJCV)},
+  Year                     = {2008},
+
+  Month                    = {October},
+  Number                   = {1},
+  Pages                    = {45-57},
+  Volume                   = {80},
+
+  Doi                      = {10.1007/s11263-007-0118-0},
+  File                     = {:Finalized Papers\\Mutch and Lowe.pdf:PDF},
+  Keywords                 = {Visual Cortex, Biologically Inspired model, HMAX},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@TechReport{JoelZLeibo2010,
+  Title                    = {Learning Generic Object Invariances in Object Recognition: Translation and Scale},
+  Author                   = {Joel Z Leibo, Jim Mutch, Lorenzo Rosasco, Shimon Ullman, Tomaso Poggio},
+  Institution              = {Massachusets Institute of Technology, Computer Science and Artificial Intelligence Laboratory},
+  Year                     = {2010},
+
+  Address                  = {Massachusets Institute of Technology, Cambridge, MA 02139, USA},
+  Month                    = {December},
+  Number                   = {MIT-CSAIL-TR-2010-061},
+
+  File                     = {:Finalized Papers\\Mutch Poggio Generic invariance in recognition.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.30},
+  Url                      = {http://hdl.handle.net/1721.1/60378}
+}
+
+@Article{Tanak1996,
+  Title                    = {Inferotemporal cortex and object vision.},
+  Author                   = {Tanaka K},
+  Journal                  = {Annual Review of Neuroscience},
+  Year                     = {1996},
+  Pages                    = {109 - 139},
+  Volume                   = {19},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Article{K.Kavukcuoglu2009,
+  Title                    = {Learning invariant features through topographic filter maps.},
+  Author                   = {K. Kavukcuoglu, M. Ranzato, R. Fergus, and Y. LeCun.},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2009},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Article{KevinJarret2009,
+  Title                    = {What is the best multi stage architecture for object recognition ?},
+  Author                   = {Kevin Jarret, Koray Kavukcuoglu, Marc' Aurelio Ranzato, Yann Le Cunn},
+  Journal                  = {IEEE 12th International Conference on Computer Vision},
+  Year                     = {2009},
+  Pages                    = {2146 - 2153},
+
+  Doi                      = {10.1109/ICCV.2009.5459469},
+  File                     = {:Finalized Papers\\Yann Le cunn Survey.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@InCollection{Krizhevsky2012,
+  Title                    = {ImageNet Classification with Deep Convolutional Neural Networks},
+  Author                   = {Alex Krizhevsky and Sutskever, Ilya and Geoffrey E. Hinton},
+  Booktitle                = {Advances in Neural Information Processing Systems 25},
+  Publisher                = {Curran Associates, Inc.},
+  Year                     = {2012},
+  Editor                   = {F. Pereira and C.J.C. Burges and L. Bottou and K.Q. Weinberger},
+  Pages                    = {1097--1105},
+
+  __markedentry            = {[Genieass:6]},
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03},
+  Url                      = {http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf}
+}
+
+@Article{rohtua,
+  Title                    = {The invariance hypothesis implies domain-specific regions in visual cortex},
+  Author                   = {Leibo, Joel Z. and Liao, Qianli and Anselmi, Fabio and Poggio, Tomaso},
+  Journal                  = {bioRxiv},
+  Year                     = {2014},
+
+  Abstract                 = {Joel Z. Leibo1 (jzleibo{at}mit.edu) (www.jzleibo.com), Qianli Liao (lql{at}mit.edu), Fabio Anselmi (nfabio.anselmi{at}gmail.com) and Tomaso Poggio (tp{at}ai.mit.edu) (http://bcs.mit.edu/people/poggio.html)
+ MIT
+ Corresponding author; email: jzleibo{at}mit.edu
+AbstractIs visual cortex made up of general-purpose information processing machinery, or does it consist of a collection of specialized modules? If prior knowledge, acquired from learning a set of objects is only transferable to new objects that share properties with the old, then the recognition system{\textquoteright}s optimal organization must be one containing specialized modules for different object classes. Our analysis starts from a premise we call the invariance hypothesis: that the computational goal of the ventral stream is to compute an invariant-to-transformations and discriminative signature for recognition. The key condition enabling approximate transfer of invariance without sacrificing discriminability turns out to be that the learned and novel objects transform similarly. This implies that the optimal recognition system must contain subsystems trained only with data from similarly-transforming objects and suggests a novel interpretation of domain-specific regions like the fusiform face area (FFA). Furthermore, we can define an index of transformation-compatibility, computable from videos, that can be combined with information about the statistics of natural vision to yield predictions for which object categories ought to have domain-specific regions. The result is a unifying account linking the large literature on view-based recognition with the wealth of experimental evidence concerning domain-specific regions.Received April 23, 2014.Accepted April 24, 2014.{\textcopyright} 2014, Published by Cold Spring Harbor Laboratory PressThe copyright holder for this pre-print is the author. All rights reserved. The material may not be redistributed, re-used or adapted without the author{\textquoteright}s permission.},
+  Doi                      = {10.1101/004473},
+  Publisher                = {Cold Spring Harbor Labs Journals}
+}
+
+@Article{Lowe2004,
+  Title                    = {Distinctive image features from scale-invariant keypoints},
+  Author                   = {David G. Lowe},
+  Journal                  = {International Journal of Computer Vision},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {91-110},
+  Volume                   = {60},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Article{Macknik2007,
+  Title                    = {The role of feedback in visual masking and visual processing},
+  Author                   = {Stephen L. Macknik and Susana Martinez-Conde},
+  Journal                  = {Advances in Cognitive Psychology},
+  Year                     = {2007},
+  Number                   = {1-2},
+  Pages                    = {125 - 152},
+  Volume                   = {3},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Book{MarkF.Bear1996,
+  Title                    = {Neuroscience Exploring the Brain},
+  Author                   = {Mark F. Bear, Barry W. Connors, Michael A. Paradiso},
+  Editor                   = {Timothy S. Scatterfield},
+  Publisher                = {Williams \& Wilkins},
+  Year                     = {1996},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{MarkusLessmann2014,
+  Title                    = {Learning invariant object Recognition from temporal correlation in a hierarchical Network},
+  Author                   = {Markus Lessmann, Rolf P.Wurtz},
+  Journal                  = {Neural Networks},
+  Year                     = {2014},
+
+  Month                    = {February},
+  Pages                    = {70-84},
+  Volume                   = {54},
+
+  Doi                      = {10.1016/j.neunet.2014.02.011},
+  File                     = {:Finalized Papers\\HTM Like Model Lessmann and Wurtz.pdf:PDF},
+  Keywords                 = {HTM, Memory Prediction Framework, Biologically Inspired Visual Recognition, Visual Cortex, Neocortex, Cortical Computing, Temporal Correlation, Feedback, Feedforward computing,},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.27}
+}
+
+@Article{MaximilianRiesenhuber1999,
+  Title                    = {Hierarchical models of object recognition in cortex},
+  Author                   = {Maximilian Riesenhuber, Tomaso Poggio},
+  Journal                  = {Nature Neuroscience},
+  Year                     = {1999},
+
+  Month                    = {November},
+  Number                   = {11},
+  Pages                    = {1019 - 1025},
+  Volume                   = {2},
+
+  File                     = {:Finalized Papers\\nn99.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31},
+  Url                      = {http://maxlab.neuro.georgetown.edu/docs/publications/nn99.pdf}
+}
+
+@Article{Mikolajczyk2005,
+  Title                    = {Local features for object class recognition},
+  Author                   = {Mikolajczyk, K, Leibe, B. ; Schiele, B.},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2005},
+
+  Month                    = {October},
+  Pages                    = {1792 - 1799},
+  Volume                   = {2},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Article{NWDaw1993,
+  Title                    = {The Role of NMDA Receptors in Information Processing},
+  Author                   = {N W Daw, P S G Stein, and K Fox},
+  Journal                  = {Annual Review of Neuroscience},
+  Year                     = {1993},
+
+  Month                    = {March},
+  Pages                    = {207-222},
+  Volume                   = {16},
+
+  Doi                      = {10.1146/annurev.ne.16.030193.001231},
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.25}
+}
+
+@Article{NavneetDalal2005,
+  Title                    = {Histograms of Oriented Gradients for Human Detection},
+  Author                   = {Navneet Dalal, Bill Triggs},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2005},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Article{NicolasPinto2009,
+  Title                    = {A High Throughput Screening Approach to Discovering Good Forms of Biologically Inspired Visual Representation},
+  Author                   = {Nicolas Pinto, David D.Cox, David Doukhan, James J.DiCarlo},
+  Journal                  = {PLoS Computational Biology},
+
+  Month                    = {November},
+  Number                   = {11},
+  Volume                   = {5},
+
+  Doi                      = {10.1371/journal.pcbi.1000579},
+  File                     = {:Finalized Papers\\pinto_plos09.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{NicolasPinto2008,
+  Title                    = {Why is Real World Visual Object Recognition Hard ?},
+  Author                   = {Nicolas Pinto, David D.Cox, James J.DiCarlo},
+  Journal                  = {PLoS Computational Biology},
+  Year                     = {2008},
+
+  Month                    = {January},
+  Number                   = {1},
+  Volume                   = {4},
+
+  Doi                      = {10.1371/journal.pcbi.0040027},
+  File                     = {:Finalized Papers\\journal.pcbi.0040027.pdf:PDF},
+  Keywords                 = {V1 like Model, Caltech 101, Object Recognition, Invariance, Neuroscience, Ventral Stream Processing},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.25}
+}
+
+@Article{NicolasPinto2011,
+  Title                    = {Comparing State of the Art Visual Features on Invariant Object Recognition Tasks},
+  Author                   = {Nicolas Pinto, David D.Cox, Youssef Barhomi, James J.DiCarlo},
+  Journal                  = {Applications of Computer Vision (WACV), 2011 IEEE Workshop on},
+  Year                     = {2011},
+
+  Month                    = {January},
+  Pages                    = {463 - 470},
+
+  Doi                      = {10.1109/WACV.2011.5711540},
+  File                     = {:Finalized Papers\\soainv.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{RobertoValerio2003,
+  Title                    = {Optimal coding through divisive normalization models of V1 neurons},
+  Author                   = {Roberto Valerio, Rafael Navarro},
+  Journal                  = {Network},
+  Year                     = {2003},
+
+  Month                    = {December},
+  Number                   = {3},
+  Pages                    = {579-93},
+  Volume                   = {14},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.26}
+}
+
+@TechReport{Rosenblatt1957,
+  Title                    = {Perceptron--a perceiving and recognizing automaton},
+  Author                   = {Rosenblatt, Frank},
+  Institution              = {Cornell Aeronautical Laboratory},
+  Year                     = {1957},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04}
+}
+
+@Article{SchwartzO2001,
+  Title                    = {Natural signal statistics and sensory gain control},
+  Author                   = {Schwartz O, Simoncelli E P},
+  Journal                  = {Nature Neuroscience},
+  Year                     = {2001},
+  Pages                    = {819-25},
+  Volume                   = {4},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.26}
+}
+
+@Article{SimonThorpe1996,
+  Title                    = {Speed of Processing in the human visual system},
+  Author                   = {Simon Thorpe, Denis Fize, Catherine Marlot},
+  Journal                  = {Nature},
+  Year                     = {1996},
+
+  Month                    = {June},
+  Number                   = {6582},
+  Pages                    = {520-522},
+  Volume                   = {381},
+
+  Doi                      = {10.1038/381520a0},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.31}
+}
+
+@Article{ThomasSerre2007a,
+  Title                    = {A feedforward architecture accounts for rapid categorization},
+  Author                   = {Thomas Serre, Aude Oliva, Tomaso Poggio},
+  Journal                  = {PNAS},
+  Year                     = {2007},
+
+  Month                    = {November},
+  Number                   = {15},
+  Pages                    = {6424–6429},
+  Volume                   = {104},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Article{ThomasSerre2007,
+  Title                    = {Robust Cortex like Recognition with Cortex like Mechanisms},
+  Author                   = {Thomas Serre, Lior Wolf, Stanley Bileschi, Maximilian Riesenhuber, Thomas Poggio},
+  Journal                  = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  Year                     = {2007},
+
+  Month                    = {March},
+  Number                   = {3},
+  Pages                    = {411-425},
+  Volume                   = {29},
+
+  Doi                      = {10.1109/TPAMI.2007.56},
+  File                     = {:Finalized Papers\\Robust Object recognition with Coretx like Mechanisms.pdf:PDF},
+  Keywords                 = {V1 inspired model, Neocortex, Gabor functions, Max pooling, Feature template matching},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@TechReport{ThomasSerre2004,
+  Title                    = {Realistic Modeling of Simple and Complex Cell Tuning in the HMAX Model, and Implications for Invariant Object Recognition in Cortex},
+  Author                   = {Thomas Serre, Maximilian Riesenhuber},
+  Institution              = {Massachusetts Institute of Technology ï¿½ Computer Science and Artificial Intelligence Laboratory},
+  Year                     = {2004},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.01}
+}
+
+@InBook{UlrikevonLuxburg2004,
+  Title                    = {Learning Theory},
+  Author                   = {Ulrike von Luxburg, Olivier Bousquet, Mikhail Belkin},
+  Chapter                  = {On the Convergence of Spectral Clustering on Random Samples: The Normalized Case},
+  Editor                   = {John Shawe-Taylor, Yoram Singer},
+  Pages                    = {457 - 471},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2004},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.02}
+}
+
+@Article{Montero1991,
+  Title                    = {A quantitative study of synaptic contacts on interneurons and relay cells of the cat lateral geniculate nucleus},
+  Author                   = {Montero V.M},
+  Journal                  = {Experimental Brain Research},
+  Year                     = {1991},
+  Number                   = {2},
+  Pages                    = {257 - 270},
+  Volume                   = {86},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.03}
+}
+
+@Article{VB1997,
+  Title                    = {The columnar organization of neocortex},
+  Author                   = {Mountcastle VB},
+  Journal                  = {Brain},
+  Year                     = {1997},
+
+  Month                    = {April},
+  Number                   = {4},
+  Pages                    = {701 - 722},
+  Volume                   = {120},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.04},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/9153131}
+}
+
+@Article{westphal-feat,
+  Title                    = {Combining Feature- and Correspondence-Based Methods for Visual Object Recognition},
+  Author                   = {Günter Westphal and Rolf P. Würtz},
+  Journal                  = {Neural Computation},
+  Year                     = {2009},
+  Number                   = {7},
+  Pages                    = {1952--1989},
+  Volume                   = {21},
+
+  Doi                      = {http://dx.doi.org/10.1162/neco.2009}
+}
+
+@Article{XiaolinHu2014,
+  Title                    = {Sparsity Regularized HMAX for Visual Recognition},
+  Author                   = {Xiaolin Hu, Jianwei Zhang, Jianmin Li, Bo Zhang},
+  Journal                  = {PLoS ONE},
+  Year                     = {2014},
+
+  Month                    = {January},
+  Number                   = {1},
+  Volume                   = {9},
+
+  Doi                      = {10.1371/journal.pone.0081813},
+  File                     = {:Finalized Papers\\Hu_2014_HMAX.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{Y-LanBoureau2010,
+  Title                    = {Learning Mid Level Features for Recognition},
+  Author                   = {Y-Lan Boureau, Francis Bach, Yann Le Cunn, Jean Ponce},
+  Journal                  = {Computer Vision and Pattern Recognition},
+  Year                     = {2010},
+
+  Month                    = {June},
+  Pages                    = {2559 - 2566},
+
+  Doi                      = {10.1109/CVPR.2010.5539963},
+  File                     = {:Finalized Papers\\Yann Le Cunn Recognition.pdf:PDF},
+  Owner                    = {Genieass},
+  Timestamp                = {2014.12.29}
+}
+
+@Article{Y-LanBoureau2010a,
+  Title                    = {A theoretical analysis of feature pooling in visual recognition},
+  Author                   = {Y-Lan Boureau , Jean Ponce, Yann LeCun},
+  Journal                  = {Proceedings of the 27th International Conference on Machine Learning (ICML-10)},
+  Year                     = {2010},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.27}
+}
+
+@Article{Y-LanBoureau2011,
+  Title                    = {Ask the locals: Multi-way local pooling for image recognition},
+  Author                   = {Y-Lan Boureau, N.Le Roux, Francis Bach, Jean Ponce, Yan Lecun},
+  Journal                  = {Computer Vision},
+  Year                     = {2011},
+
+  Owner                    = {Genieass},
+  Timestamp                = {2015.01.27}
+}
+
